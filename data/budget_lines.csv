@@ -1,0 +1,6 @@
+budget_line,department,budget_category,description,annual_budget_usd,committed_usd
+BL-WIN-26,Programs,winter,Winter response 2026,25000,14500
+BL-FOOD-26,Programs,food,Food assistance 2026,40000,38320
+BL-NFI-26,Logistics,nfi,Non-food items (blankets and kitchen sets) 2026,20000,9000
+BL-HYG-26,Programs,hygiene,Hygiene promotion 2026,8000,2000
+BL-MEAL-26,MEAL,meal,MEAL activities 2026 (no relief items),5000,1000

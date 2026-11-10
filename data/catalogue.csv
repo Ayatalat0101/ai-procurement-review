@@ -1,0 +1,6 @@
+item,unit,budget_category,benchmark_unit_cost_usd,source
+Winter Kit,kit,winter,42.0,average unit_cost_usd in aid_distributions.csv (Project 1)
+Food Parcel,parcel,food,28.0,average unit_cost_usd in aid_distributions.csv (Project 1)
+Blanket,piece,nfi,9.0,average unit_cost_usd in aid_distributions.csv (Project 1)
+Kitchen Set,set,nfi,35.0,average unit_cost_usd in aid_distributions.csv (Project 1)
+Hygiene Kit,kit,hygiene,15.5,average unit_cost_usd in aid_distributions.csv (Project 1)

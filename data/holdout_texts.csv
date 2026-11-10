@@ -1,0 +1,7 @@
+text_id,language,text,requester,department,item,quantity,unit_price_usd,quotes,supplier,budget_line,manager,evidence
+H01,en,"Good morning, my name is Huda Saleh, MEAL team. Could we buy 80 hygiene kits at 15 dollars a piece? Supplier would be Gaza Supplies Co, we collected three quotations. Use BL-HYG-26. Manager approval: Samir Haddad. Background: FB-0017.",Huda Saleh,MEAL,Hygiene Kit,80,15,3,Gaza Supplies Co,BL-HYG-26,Samir Haddad,FB-0017
+H02,ar,يا جماعة بدنا نشتري ٢٥٠ حرامات للشمال، البطانية بـ 9 دولار، المورد Bahr Textiles، ٣ عروض، بند BL-NFI-26، التوزيعة DST-019 انلغت.,,,Blanket,250,9,3,Bahr Textiles,BL-NFI-26,,DST-019
+H03,en,"Total budget 8,400 USD for 200 winter kits (DST-001). Supplier Al-Noor Trading. Manager Samir Haddad approved.",,,Winter Kit,200,,,Al-Noor Trading,,Samir Haddad,DST-001
+H04,ar,طلب شراء: 40 سلة غذائية، سعر الوحدة 28، من Gaza Supplies Co، عندنا عرضين، BL-FOOD-26، وافق عليه المدير سمير حداد.,,,Food Parcel,40,28,2,Gaza Supplies Co,BL-FOOD-26,سمير حداد,
+H05,en,"Need kitchen sets x 30 @ 34.50/unit, Al-Noor Trading, quotes: 3, budget line bl-nfi-26, evidence FB-0003 and DST-043.",,,Kitchen Set,30,34.50,3,Al-Noor Trading,BL-NFI-26,,"FB-0003, DST-043"
+H06,ar,معك سامر من البرامج، بدي 100 حقيبة شتوية.,سامر,Programs,Winter Kit,100,,,,,,
